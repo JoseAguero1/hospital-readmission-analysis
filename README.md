@@ -32,9 +32,7 @@ finance transactions across 10 spending categories.
 - CTEs for rolling averages
 
 ## Power BI Dashboard
-[View live dashboard →](https://app.powerbi.com/your-link-here)
-
-![Dashboard preview](images/powerbi_dashboard.png)
+[View live dashboard →](https://app.powerbi.com/your-link-here)](https://sooners-my.sharepoint.com/:u:/r/personal/jose_y_aguero-1_ou_edu/Documents/data%20portfolio/healthcare.pbix?csf=1&web=1&e=mYfOhw)
 
 ## How to Run the Python Script
 ```bash
